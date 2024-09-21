@@ -8,7 +8,7 @@
 
 * Blender
 
-* SEModel Blender Plugin 
+* SEModel  
 
 * GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
   
