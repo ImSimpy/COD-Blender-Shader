@@ -4,7 +4,7 @@
 ## Requirements
 * SEModel for Blender +2.80 - [DownloadLink](https://github.com/dtzxporter/io_model_semodel)
 * 
-* SeModel Blender +4.2 - N/A
+* SEModel Blender +4.2 - N/A
 * 
 * GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
 *
