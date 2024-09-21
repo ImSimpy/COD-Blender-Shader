@@ -1,4 +1,5 @@
-# IW Blender Shader
+# 𝐈𝐖 𝐁𝐥𝐞𝐧𝐝𝐞𝐫 𝐒𝐡𝐚𝐝𝐞𝐫
+
 
 > [!WARNING]
 >  You have to be Intermediate Level Or Advanced Level on Blender to understand to use this shader soon i make a simple shader for New Blender Users
