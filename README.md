@@ -15,14 +15,13 @@
 
 ## Supported Games 
 
-* Modern Warfare 2019
+* `Modern Warfare 2019`
   
-* Vanguard
+* `Vanguard`
   
-* Modern Warfare 2022
+* `Modern Warfare 2022`
   
-* Modern Warfare 2023 
-
+* `Modern Warfare 2023`
 
  
 ## Download
