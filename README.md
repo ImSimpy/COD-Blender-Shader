@@ -5,11 +5,17 @@
 
   
 ## Requirements
-* SEModel for `Blender 2.80` - [DownloadLink](https://github.com/dtzxporter/io_model_semodel)
-  
-* SEModel for `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
-  
+
+* Blender
+
+* SEModel 
+
 * GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
   
 
   
+## SEModel Downloads 
+
+* SEModel for `Blender 2.80` - [DownloadLink](https://github.com/dtzxporter/io_model_semodel)
+  
+* SEModel for `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
