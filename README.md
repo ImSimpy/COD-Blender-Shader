@@ -32,4 +32,7 @@
 * SEModel for `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
 
 * GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
-  
+
+
+## Credit
+## `Gealuvuh / Simpy The Simp`  
