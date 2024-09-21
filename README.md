@@ -10,12 +10,14 @@
 
 * SEModel  
 
-* GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
+* GameImageUTIL 
   
-
-  
-## SEModel Blender Plugin  Download
+ 
+## Download
 
 * SEModel for `Blender 2.80` - [DownloadLink](https://github.com/dtzxporter/io_model_semodel)
   
 * SEModel for `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
+
+* GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
+  
