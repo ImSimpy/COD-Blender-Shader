@@ -58,7 +58,7 @@
 * 𝐆𝐚𝐦𝐞𝐈𝐦𝐚𝐠𝐞𝐔𝐓𝐈𝐋
 
   
-## Supported Games 
+## 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝 𝐆𝐚𝐦𝐞𝐬
 
 * `Modern Warfare 2019`
   
@@ -70,16 +70,16 @@
 
 * `Black Ops 6`
  
-## Download
+## 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝
 
-* SEModel for `Blender 2.80` - [DownloadLink](https://github.com/dtzxporter/io_model_semodel)
+* 𝐒𝐄𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 `Blender 2.80` - [DownloadLink](https://github.com/dtzxporter/io_model_semodel)
   
-* SEModel for `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
+* 𝐒𝐄𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
 
 * GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
 
 
-## Credit
-## `Gealuvuh / Simpy The Simp`
+## 𝐂𝐫𝐞𝐝𝐢𝐭
+## `𝐆𝐞𝐚𝐥𝐮𝐯𝐮𝐡 / 𝐒𝐢𝐦𝐩𝐲 𝐓𝐡𝐞 𝐒𝐢𝐦𝐩`
 
 
