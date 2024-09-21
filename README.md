@@ -76,7 +76,7 @@
   
 * 𝐒𝐄𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
 
-* GameImageUTIL - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
+* 𝐆𝐚𝐦𝐞𝐈𝐦𝐚𝐠𝐞𝐔𝐓𝐈𝐋 - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
 
 
 ## 𝐂𝐫𝐞𝐝𝐢𝐭
