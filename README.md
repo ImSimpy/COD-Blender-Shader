@@ -23,6 +23,7 @@
   
 * `Modern Warfare 2023`
 
+* `Black Ops 6`
  
 ## Download
 
