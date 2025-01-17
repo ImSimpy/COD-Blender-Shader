@@ -73,15 +73,21 @@
  
 ## 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝
 
-* 𝐒𝐄𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 `Blender 2.80` - [DownloadLink](https://github.com/dtzxporter/io_model_semodel)
+* 𝐒𝐄𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 `Blender 2.80` - [Link](https://github.com/dtzxporter/io_model_semodel)
   
-* 𝐒𝐄𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 `Blender 4.1` - [DownloadLink](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
+* 𝐒𝐄𝐌𝐨𝐝𝐞𝐥 𝐟𝐨𝐫 `Blender 4.1` - [Link](https://github.com/Finnomator/io_model_semodelhttps://github.com/Finnomator/io_model_semodel)
 
-* 𝐆𝐚𝐦𝐞𝐈𝐦𝐚𝐠𝐞𝐔𝐓𝐈𝐋 - [DownloadLink](https://github.com/Scobalula/GameImageUtil)
+* 𝐆𝐚𝐦𝐞𝐈𝐦𝐚𝐠𝐞𝐔𝐓𝐈𝐋 - [Link](https://github.com/Scobalula/GameImageUtil)
 
 
-## 𝐂𝐫𝐞𝐝𝐢𝐭
+## 𝐂𝐫𝐞𝐝𝐢𝐭 
 ### ` 𝐆𝐞𝐚𝐥𝐮𝐯𝐮𝐡 `
 ### ` 𝐒𝐢𝐦𝐩𝐲 𝐓𝐡𝐞 𝐒𝐢𝐦𝐩 `
-### ` 𝐂𝐨𝐫𝐞𝐚𝐫𝐭𝐳 - 𝐍𝐎𝐆 𝐍𝐨𝐝𝐞 `
+### ` 𝐂𝐨𝐫𝐞𝐚𝐫𝐭𝐳  `
+
+
+
+## Stuff Used 
+### NOG Converter - [GameShading-Blender By Coreartz](https://github.com/coreartz/GameShading-Blender/tree/main/COD/MW2%202022)
+
 
