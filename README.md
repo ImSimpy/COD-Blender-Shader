@@ -1,9 +1,6 @@
 # 𝐂𝐚𝐥𝐥 𝐎𝐟 𝐃𝐮𝐭𝐲 𝐒𝐡𝐚𝐝𝐞𝐫
 
 
-> [!WARNING]
->  You have to be Intermediate Level Or Advanced Level on Blender to understand to use this shader soon i make a simple shader for New Blender Users
-
 
 ## 𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧𝐬
 
