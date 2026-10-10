@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "cod_autoshader"
+version = "1.51.0"
+name = "CoD AutoShader"
+tagline = "Auto-shades Call of Duty Saluki/Cast exports"
+maintainer = "Simpy"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Material", "Import-Export"]
+
+[permissions]
+files = "Read model textures, _mat_info, hair .blend and C2M maps"

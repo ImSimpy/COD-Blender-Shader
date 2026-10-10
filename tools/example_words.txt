@@ -1,0 +1,7 @@
+lit
+lit_weapon
+lit_weapon_camo
+lit_skin
+lit_emissive
+weapon_layered
+lit_transparent
